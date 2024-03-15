@@ -2,7 +2,7 @@
 
 int main(void) {
   printf("23"); 
-  if (22 == 23) {
+  if (22 == 25) {
 printf("teste");
   }
 
