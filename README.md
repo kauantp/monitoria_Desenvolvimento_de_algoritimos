@@ -10,7 +10,7 @@ This is a Github Repo to Organize and help the students of the classes that I'm 
 ## Projetos
 
 ### Projeto 2
-Veja o Desenvolvimento do projeto 2 [AQUI](https://github.com/kauantp/Monitoria_Projeto_2)
+Veja o Desenvolvimento do projeto 2 [AQUI](/Projeto_Monitoria_2)
 
 ### Projeto 3
 Veja o Desenvolvimento do projeto 3 [AQUI](https://github.com/kauantp/Monitoria_Projeto_3)
